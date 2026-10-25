@@ -3,7 +3,7 @@ Project Overview
 Application: Swag Labs
 
 URL: https://www.saucedemo.com/
-Test Criteria:
+##Test Criteria:
 - Login
 - Product listing
 - Product details
