@@ -15,7 +15,7 @@ Test Plan — Swag Labs E-commerce Application
 
 ## 2. Introduction
 
-This document defines the scope, objectives, approach, test environment, and completion criteria for manual testing of the Sauce Demo e-commerce web application.
+This document defines the scope, objectives, approach, test environment, and completion criteria for manual testing of the Swag Labs e-commerce web application.
 
 The project simulates a basic online shopping experience, allowing a tester to practise validating authentication, product browsing, shopping cart functionality, and checkout workflows.
 
