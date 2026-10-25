@@ -13,13 +13,13 @@ Test Plan — Swag Labs E-commerce Application
 | Created Date | 25 October 2026 |
 | Test Type | Manual Functional Testing |
 
-2. Introduction
+## 2. Introduction
 
 This document defines the scope, objectives, approach, test environment, and completion criteria for manual testing of the Sauce Demo e-commerce web application.
 
 The project simulates a basic online shopping experience, allowing a tester to practise validating authentication, product browsing, shopping cart functionality, and checkout workflows.
 
-3. Objectives
+## 3. Objectives
 
 Validate core shopping workflows from login through cart management.
 
