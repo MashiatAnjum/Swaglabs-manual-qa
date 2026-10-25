@@ -30,3 +30,100 @@ Identify, document, and report reproducible defects.
 Practise professional test planning, test design, execution, and reporting.
 
 Establish a manual test baseline that can later be automated using Python.
+
+## 4. Application Under Test
+
+Application: Sauce Demo / Swag Labs
+URL: https://www.saucedemo.com/
+
+The application is a public testing storefront. Before execution, confirm that the login page and the intended features are available in the current version.
+
+## 5. Scope of Testing
+
+In scope
+
+Authentication
+
+Login page loads correctly.
+
+Login with valid and invalid credentials.
+
+Empty username and password validation.
+
+Appropriate error messages for rejected login attempts.
+
+Product Listing
+
+Product inventory page loads after successful login.
+
+Product names, descriptions, images, and prices are displayed.
+
+Product detail pages open correctly.
+
+Product sorting works, if available.
+
+Shopping Cart
+
+Add a product to the cart.
+
+Verify the cart badge/count, if displayed.
+
+Open the cart and verify selected products.
+
+Remove a product from the cart.
+
+Verify cart state after adding or removing items.
+
+Checkout — initial coverage
+
+Checkout page opens from the cart.
+
+Required customer information is validated.
+
+Valid test information allows progression to the next step.
+
+Order summary and completion behaviour are checked if time permits.
+
+Basic usability
+
+Important controls and validation messages are visible.
+
+Core actions can be completed using a desktop browser.
+
+Basic keyboard operation is checked where practical.
+
+Out of scope
+
+Production e-commerce systems or real purchases.
+
+Payment gateway or financial transaction testing.
+
+Security penetration testing.
+
+Load, stress, and performance testing.
+
+API testing and automated testing during the initial manual phase.
+
+Exhaustive cross-browser and accessibility certification.
+
+## 6. Test Approach
+
+The following techniques will be used:
+
+Positive testing
+
+Negative testing
+
+Equivalence partitioning
+
+Boundary-value analysis where applicable
+
+Exploratory testing
+
+Functional testing
+
+Basic usability checks
+
+Retesting and regression checks when a defect or change is identified
+
+Testing will begin with the login workflow, followed by product browsing and cart operations. Checkout will be included after the earlier workflows are understood.
