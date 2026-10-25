@@ -40,7 +40,7 @@ The application is a public testing storefront. Before execution, confirm that t
 
 ## 5. Scope of Testing
 
-In scope
+# In scope
 
 Authentication
 
@@ -92,7 +92,7 @@ Core actions can be completed using a desktop browser.
 
 Basic keyboard operation is checked where practical.
 
-Out of scope
+# Out of scope
 
 Production e-commerce systems or real purchases.
 
