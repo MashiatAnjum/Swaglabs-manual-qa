@@ -4,11 +4,11 @@ Test Plan — Swag Labs E-commerce Application
 
 | Field | Details |
 |---|---|
-| Project Name | Sauce Demo Manual QA Case Study |
+| Project Name | Swag Labs Manual QA Case Study |
 | Document ID | SL-TP-001 |
 | Version | 1.0 |
 | Status | Draft — pending test execution |
-| Prepared By | [Your Name] |
+| Prepared By | Mashiat Anjum Talukder |
 | Application URL | [https://www.saucedemo.com/](https://www.saucedemo.com/) |
 | Created Date | 25 October 2026 |
 | Test Type | Manual Functional Testing |
