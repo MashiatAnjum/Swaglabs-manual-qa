@@ -26,14 +26,12 @@ The project simulates a basic online shopping experience, allowing a tester to p
 * Validate core shopping workflows from login through cart management.
 * Verify expected behaviour for positive and negative inputs.
 * Identify, document, and report reproducible defects.
-* Practise professional test planning, test design, execution, and reporting.
-* Establish a manual test baseline that can later be automated using Python.
 
 ---
 
 ## 4. Application Under Test
 
-* **Application:** Sauce Demo / Swag Labs
+* **Application:** Swag Labs
 * **URL:** https://www.saucedemo.com/
 
 
@@ -100,9 +98,9 @@ The following techniques will be used:
 | Item | Planned Configuration |
 | :--- | :--- |
 | **Application** | Public Sauce Demo website |
-| **Operating System** | Windows — confirm actual version |
-| **Browser** | Google Chrome — record actual version |
-| **Viewport** | Desktop; mobile-sized viewport if time permits |
+| **Operating System** | Windows — Version 11 |
+| **Browser** | Google Chrome — Version 155 |
+| **Viewport** | Desktop; mobile-sized viewport; Tablet |
 | **Test Type** | Manual web testing |
 | **Documentation** | Markdown files in GitHub |
 | **Evidence** | Screenshots with sensitive information excluded |
@@ -117,8 +115,6 @@ The following techniques will be used:
   * **First name:** Test
   * **Last name:** User
   * **Postal code:** 12345
-
-> **Important:** Do not use real personal information. Do not commit credentials or private data to the repository.
 
 ---
 
@@ -144,8 +140,6 @@ The initial test cycle can be considered complete when:
 - [ ] Reproducible defects are documented.
 - [ ] A test execution summary is prepared.
 
-> *Completion does not require every test to pass.*
-
 ---
 
 ## 11. Defect Reporting
@@ -162,8 +156,6 @@ Each reproducible defect should include:
 8. **Severity and priority, with rationale**
 9. **Screenshot or other supporting evidence**
 10. **Current status**
-
-> **Rule:** Do not report a defect based solely on an assumption. Reproduce the behaviour and compare it with the expected result first.
 
 ---
 
@@ -199,6 +191,6 @@ This is an independent learning and portfolio project using a public demo applic
 
 ## 15. Review and Approval
 
-* **Prepared by:** [Your Name]
-* **Review status:** Pending self-review
-* **Approval status:** Not applicable — independent portfolio project
+* **Prepared by:** [Mashiat Anjum Talukder]
+* **Review status:** Pending
+* **Approval status:** Not applicable — independent portfolio projec
