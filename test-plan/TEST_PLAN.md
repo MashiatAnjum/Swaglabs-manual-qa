@@ -36,7 +36,6 @@ The project simulates a basic online shopping experience, allowing a tester to p
 * **Application:** Sauce Demo / Swag Labs
 * **URL:** https://www.saucedemo.com/
 
-> **Note:** The application is a public testing storefront. Before execution, confirm that the login page and the intended features are available in the current version.
 
 ---
 
@@ -93,8 +92,6 @@ The following techniques will be used:
 * Functional testing
 * Basic usability checks
 * Retesting and regression checks when a defect or change is identified
-
-> Testing will begin with the login workflow, followed by product browsing and cart operations. Checkout will be included after the earlier workflows are understood.
 
 ---
 
