@@ -4,6 +4,8 @@ Application: Swag Labs
 
 URL: https://www.saucedemo.com/
 
+Testing Criteria
+
 | Module | What to test |
 | :--- | :--- |
 | **Login** | Valid/invalid credentials, empty fields, error messages |
