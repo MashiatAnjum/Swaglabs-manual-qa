@@ -1,5 +1,5 @@
 
-# Swag Labs — Test Scenario Document
+#  Test Scenario  — Swag Labs E-commerce Application
 
 ## 1. Document Information
 
