@@ -70,9 +70,9 @@ This document outlines the high-level **Test Scenarios** for testing the Swag La
 | :--- | :--- | :--- |
 | **TS_OOV_01** | Verify that listed items and quantities on the overview page match the selected cart items. | High |
 | **TS_OOV_02** | Verify correct calculation of Item Subtotal price. | High |
-| **TS_OOV_03** | Verify correct calculation of Tax amount.[cite: 6] | High |
+| **TS_OOV_03** | Verify correct calculation of Tax amount. | High |
 | **TS_OOV_04** | Verify correct calculation of Total price (Subtotal + Tax = Total). High |
-| **TS_OOV_05** | Verify clicking "Cancel" on the overview page aborts the order and returns to the catalog.\ | Medium |
+| **TS_OOV_05** | Verify clicking "Cancel" on the overview page aborts the order and returns to the catalog.| Medium |
 
 ---
 
