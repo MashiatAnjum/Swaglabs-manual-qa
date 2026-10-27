@@ -1,4 +1,4 @@
-Test Plan — Swag Labs E-commerce Application
+# Test Plan — Swag Labs E-commerce Application
 
 ## 1. Document Information
 
