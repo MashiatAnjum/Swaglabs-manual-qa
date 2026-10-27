@@ -97,7 +97,7 @@ The following techniques will be used:
 
 | Item | Planned Configuration |
 | :--- | :--- |
-| **Application** | Public Sauce Demo website |
+| **Application** | Public Sauce Demo website(Swag Labs) |
 | **Operating System** | Windows — Version 11 |
 | **Browser** | Google Chrome — Version 155 |
 | **Viewport** | Desktop; mobile-sized viewport; Tablet |
