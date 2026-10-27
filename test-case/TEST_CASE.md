@@ -27,8 +27,8 @@ Each test case includes its preconditions, test data, execution steps, expected 
 |---|---|
 | Application | Swag Labs |
 | URL | https://www.saucedemo.com/ |
-| Operating System | Windows — actual version to be recorded |
-| Browser | Google Chrome — actual version to be recorded |
+| Operating System | Windows — 11 |
+| Browser | Google Chrome — 155 |
 | Testing Method | Manual Testing |
 | Test Environment | Public Demo Application |
 
