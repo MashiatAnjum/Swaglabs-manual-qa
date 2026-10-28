@@ -111,7 +111,7 @@ Each test case includes its preconditions, test data, execution steps, expected 
 
 | Field | Result |
 |---|---|
-| Actual Result | Not recorded — pending execution |
+| Actual Result | |
 | Status | Not Run |
 | Evidence | Pending — add screenshot reference after execution |
 
