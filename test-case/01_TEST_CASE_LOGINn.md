@@ -1,5 +1,5 @@
 
-## 1. Document Information
+## 1. Mdule infrmation
 
 | Field | Details |
 |---|---|
