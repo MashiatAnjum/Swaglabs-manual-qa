@@ -191,6 +191,6 @@ This is an independent learning and portfolio project using a public demo applic
 
 ## 15. Review and Approval
 
-* **Prepared by:** [Mashiat Anjum Talukder]
+* **Prepared by:** Mashiat Anjum Talukder
 * **Review status:** Pending
 * **Approval status:** Not applicable — independent portfolio projec
